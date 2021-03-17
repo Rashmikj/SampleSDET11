@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="143" started-at="2021-03-11T16:07:05 IST" finished-at="2021-03-11T16:07:06 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="143" started-at="2021-03-11T16:07:05 IST" finished-at="2021-03-11T16:07:06 IST">
+      <class name="com.crm.contactTest.CreateContactTest">
+        <test-method status="PASS" signature="createContact()[pri:0, instance:com.crm.contactTest.CreateContactTest@1e6d1014]" name="createContact" duration-ms="25" started-at="2021-03-11T16:07:06 IST" finished-at="2021-03-11T16:07:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContact -->
+        <test-method status="PASS" signature="createContactwithIndustry()[pri:0, instance:com.crm.contactTest.CreateContactTest@1e6d1014]" name="createContactwithIndustry" duration-ms="6" started-at="2021-03-11T16:07:06 IST" finished-at="2021-03-11T16:07:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createContactwithIndustry -->
+      </class> <!-- com.crm.contactTest.CreateContactTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
